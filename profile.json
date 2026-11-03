@@ -32,7 +32,7 @@
     "chips": [
       {
         "icon": "location_on",
-        "label": "Earth"
+        "label": "Philippines"
       },
       {
         "icon": "code",
@@ -124,15 +124,11 @@
     "items": [
       {
         "icon": "brand:telegram",
-        "url": "https://t.me/"
-      },
-      {
-        "icon": "brand:discord",
-        "url": "https://discord.com/"
+        "url": "https://t.me/kaaelsh"
       },
       {
         "icon": "brand:x",
-        "url": "https://x.com/"
+        "url": "https://x.com/kylofz"
       }
     ],
     "variant": "chip",
