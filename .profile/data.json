@@ -1,5 +1,5 @@
 {
- "key": "ec1966a4",
+ "key": "d0bdb0c3",
  "stars": 3,
  "contributions": 622,
  "repos": 16,
@@ -118,9 +118,13 @@
    {
     "c": 0,
     "day": 16,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 17,
     "today": true
    },
-   null,
    null,
    null,
    null,
